@@ -116,7 +116,9 @@ Compare results across industries
 Integrate additional datasets for deeper insights
 
 ### 📎 Project Files
-Data_Professional_Survey.pbix – Power BI Dashboard
+powerbi_sample.pbix – Power BI Dashboard
+
+powerbi_sample.pdf
 
 Power BI - Final Project.xlsx – Source Dataset
 README.md – Project Documentation
